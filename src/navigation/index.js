@@ -109,7 +109,6 @@ const MyDrawer = () => {
 }
 
 const MyTabs = () => {
-  const { colors } = useTheme();
 
   return (
     <Tab.Navigator
@@ -163,7 +162,15 @@ const MyTabs = () => {
 
 const SettingsStack = ({ navigation }) => {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator
+        screenOptions={{
+          headerStyle: {
+            elevation: 0,
+            shadowOpacity: 0,
+            headerShadowVisible: false,
+        },
+      }}
+    >
       <Stack.Screen
         name="Settings"
         component={SettingsScreen}
@@ -207,10 +214,9 @@ const HomeStack = ({ navigation }) => {
   return (
     <Stack.Navigator
      screenOptions={{
-        headerStyle: {
           elevation: 0,
-          shadowOpacity: 0
-      },
+          shadowOpacity: 0,
+          headerShadowVisible: false,
      }}
     >
       <Stack.Screen
@@ -265,12 +271,13 @@ const AccountStack = ({ navigation }) => {
 
   return (
     <Stack.Navigator
-     screenOptions={{
-        headerStyle: {
-          elevation: 0,
-          shadowOpacity: 0
-      },
-     }}
+        screenOptions={{
+          headerStyle: {
+            elevation: 0,
+            shadowOpacity: 0,
+            headerShadowVisible: false,
+        },
+      }}
     >
       <Stack.Screen
         name="Home"

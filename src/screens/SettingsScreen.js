@@ -4,7 +4,8 @@ import ListItem from "../components/ListItem"
 
 const SettingsScreen = ({ navigation }) => {
     return (
-        <Box mt="1" borderBottomWidth={1} borderColor="lightgray">
+        <Box mt="1" borderBottomWidth={1} borderColor="lightgray" style={{ 
+            backgroundColor: '#fff',}}>
             <ListItem title="Display" navigation={navigation} destination="DisplaySetting" />
             <ListItem title="Account" navigation={navigation} />
         </Box>

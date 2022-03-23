@@ -1,7 +1,7 @@
 {
-  "devToolsPort": 19005,
-  "expoServerPort": 19002,
-  "packagerPort": 19002,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
   "expoServerNgrokUrl": "https://yt-dym.anonymous.bookshop.exp.direct",
   "packagerNgrokUrl": "https://yt-dym.anonymous.bookshop.exp.direct",
   "ngrokPid": 12692
