@@ -1,0 +1,66 @@
+{
+    "Title": "Popular Books",
+    "popularbooks": [{
+            "title": "Fashionpolis",
+            "author": "Dana Thomas",
+            "url": "https://www.amazon.com/Fashionopolis-Price-Fashion-Future-Clothes/dp/0735224013",
+            "image": "https://i.pinimg.com/564x/cc/1e/63/cc1e6373b8513d776fa28e7f3e58fd14.jpg",
+            "price": 13.74,
+            "rating": null,
+            "score": "4.6",
+            "description": "An investigation into the damage wrought by the colossal clothing industry and the grassroots, high-tech, international movement fighting to reform it "
+        },
+        {
+            "title": "Chanel",
+            "author": "Patrick Mauriès",
+            "url": "https://www.amazon.com/Chanel-Complete-Collections-Patrick-Mauri%C3%A8s/dp/0300254644",
+            "image": "https://i.pinimg.com/564x/a8/3b/59/a83b59e08eb97a652fb375237cb0372b.jpg",
+            "price": 54.24,
+            "rating": null,
+            "score": "4.9",
+            "description": "A comprehensive and captivating overview of all of Karl Lagerfeld’s Chanel collections, showcasing his creations through original catwalk photography"
+        },
+        {
+            "title": "Calligraphy",
+            "author": "June & Lucy",
+            "url": "https://www.amazon.com/Ultimate-Modern-Calligraphy-Lettering-Beginners/dp/1646081498",
+            "image": "https://i.pinimg.com/564x/21/72/88/217288f140f767590ce987eea4a70b23.jpg",
+            "price": 6.99,
+            "rating": null,
+            "score": "4.6",
+            "description": "My goal with this book is to help you avoid the countless months of research, trial and error, and mistakes that I made along the way, by giving you a straight forward, easy to understand explanation of the process behind hand lettering so that you can start your lettering journey with a strong foundation."
+        }
+    ],
+    "newestbooks": [{
+            "title": "Yves Saint Laurent",
+            "author": "Suzy Menkes",
+            "url": "https://www.amazon.com/Yves-Saint-Laurent-Collections-1962-2002/dp/0300243650",
+            "image": "https://i.pinimg.com/564x/c3/c2/56/c3c25643faca4abc366600fc7b643880.jpg",
+            "price": 72.00,
+            "rating": 4,
+            "score": "4.0",
+            "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion"
+        },
+        {
+            "title": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "url": "https://www.amazon.com/Book-Signs-Dover-Pictorial-Archive/dp/0486201627",
+            "image": "https://i.pinimg.com/564x/74/1b/78/741b78979e4748bcda8aef2ebd44012c.jpg",
+            "price": 9.95,
+            "rating": 3,
+            "score": "3.0",
+            "description": "This unusual collection of primitive and medieval symbols provides one of the most fertile single sources of decorative ideas available today. It is also a graphic history of the development of written communication and offers a singular insight into the psychology of the primitive mind."
+        },
+        {
+            "title": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "url": "https://www.amazon.com/Stitched-Up-Anti-Capitalist-Fashion-Counterfire/dp/0745334563",
+            "image": "https://i.pinimg.com/564x/c4/ef/f9/c4eff98a65ab002e821f050d71e0096f.jpg",
+            "price": 19.95,
+            "rating": 3,
+            "score": "3.0",
+            "description": "Stitched Up delves into the alluring world of fashion to reveal what is behind the clothes we wear. Moving between Karl Lagerfeld and Karl Marx, the book explores consumerism, class and advertising to reveal the interests which benefit from exploitation."
+        }
+    ]
+
+}
